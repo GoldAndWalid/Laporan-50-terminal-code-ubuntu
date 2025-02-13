@@ -1,4 +1,4 @@
-# Laporan 50 terminal code ubuntu
+# Laporan beberapa terminal code ubuntu
 
 NAMA : M WALID FARHAN
 
@@ -29,7 +29,7 @@ Berikut BEBERAPA CODE TERMINAL yang biasa saya gunakan, sesuai foto diatas
 8. mv berfungsi untuk mengubah nama file
 
 # beberapa code terminal lainnya
-<img src="5 code.png" width=400 height=250>
+<img src="code.png" width=400 height=250>
 
 9.  lsb_release -a berfungsi untuk melihat versi ubuntu yang digunakan
 
@@ -41,4 +41,50 @@ Berikut BEBERAPA CODE TERMINAL yang biasa saya gunakan, sesuai foto diatas
 
 13.  lscpu berfungsi Menampilkan detail prosesor.
 
-14.  
+14.  sudo adduser nama_user berfungsi untuk membuat pengguna baru
+
+15.  sudo deluser nama_user berfungsi untuk menghapus pengguna dari sistem
+
+16.  who berfungisi Menampilkan pengguna yang sedang login
+    
+17.  whoami berfungsi Menampilkan nama pengguna yang sedang login.
+
+18.  passwd berfungsi mengubah password pengguna saat ini.
+
+19.  ps aux berfungsi Menampilkan semua proses yang berjalan
+
+20.  top Fungsi: Menampilkan proses dalam tampilan real-time.
+
+21.  kill namafile Fungsi: Menghentikan proses dengan PID namafile.
+
+22. pkill namafile Fungsi: Menghentikan semua proses dengan nama tertentu.
+
+23. nohup python script.py & berfungsi  Menjalankan perintah tanpa terganggu saat logout.
+
+24. sudo apt update berfungsi memperbarui paket yang tersedia
+
+25. sudo apt upgrade -y berfungsi memperbaru semua paket baru
+
+26. sudo apt remove nama_paket berfungsi Menghapus paket beserta konfigurasinya.
+
+27. ip a berfungsi menampilkan alamat ip pengguna
+
+28. ip route berfungsi nemapilkan lalu lintas internet yang digunakan
+
+29. ping google.com berfungsi mengecek koneksi internet
+
+30. netstat -tulnp Fungsi: Menampilkan koneksi jaringan aktif.
+
+31. 
+ 
+
+
+
+
+
+
+
+
+
+
+
